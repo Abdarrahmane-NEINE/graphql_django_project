@@ -23,10 +23,10 @@ python manage.py migrate
 
 4. Start the development server:
 ```bash
-python manage.py runserver
+python manage.py runserver 8001
 ```
 
-The GraphQL endpoint will be available at `http://localhost:8000/graphql/`
+The GraphQL endpoint will be available at `http://localhost:8001/graphql/`
 
 ## Example GraphQL Operations
 
